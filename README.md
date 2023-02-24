@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddayoub&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddayoub" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmad dayoub" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad dayoub?logo=twitter&style=for-the-badge" alt="ahmad dayoub" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AhmadDayuob" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad dayoub?logo=twitter&style=for-the-badge" alt="ahmad dayoub" /></a> </p>
 
 - 🌱 I’m currently learning **React Js**
 
