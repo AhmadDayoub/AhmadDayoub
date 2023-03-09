@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Ahmad Dayoub</h1>
-<h3 align="center">A passionate Web developer from Syria</h3>
+<h3 align="center">A passionate Web developer </h3>
 <img align="right" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddayoub&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddayoub" /> </p>
